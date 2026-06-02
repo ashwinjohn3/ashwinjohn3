@@ -52,10 +52,8 @@ Software engineer with a track record building large-scale distributed systems, 
 
 ---
 
-## GitHub Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+Multi-Region+at+Scale;Cloud-Native+Infrastructure+on+AWS;GenAI+%26+Agentic+Engineering;Backend+APIs+%26+Security+Platforms;3M%2B+events%2Fday+%7C+99.9%25+latency+reduction" alt="Typing animation" />
 </p>
 
 ---
