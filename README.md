@@ -52,11 +52,10 @@ Software engineer with a track record building large-scale distributed systems, 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashwinjohn3&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjohn3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
