@@ -52,8 +52,22 @@ Software engineer with a track record building large-scale distributed systems, 
 
 ---
 
+## Trophies
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Distributed+Systems+%7C+Multi-Region+at+Scale;Cloud-Native+Infrastructure+on+AWS;GenAI+%26+Agentic+Engineering;Backend+APIs+%26+Security+Platforms;3M%2B+events%2Fday+%7C+99.9%25+latency+reduction" alt="Typing animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinjohn3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</p>
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
 </p>
 
 ---
