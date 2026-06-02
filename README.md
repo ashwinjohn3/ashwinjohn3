@@ -63,11 +63,11 @@ Software engineer with a track record building large-scale distributed systems, 
 ## Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/github-action/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/ashwinjohn3/ashwinjohn3/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
 </p>
 
 ---
